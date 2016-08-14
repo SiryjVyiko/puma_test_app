@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'mime-types'
-gem 'rails'
+gem 'mime-types', '~> 2.99', '>= 2.99.2'
+gem 'rails', '~> 4.2', '>= 4.2.7'
 gem 'puma'
 
 # Use CoffeeScript for .js.coffee assets and views
-gem 'coffee-rails'
+gem 'coffee-rails', '~> 4.0.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
