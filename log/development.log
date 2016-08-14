@@ -1,0 +1,138 @@
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:23:46 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 67ms (Views: 66.5ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:23:48 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.6ms)
+Completed 200 OK in 13ms (Views: 9.1ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:24:16 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.5ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:24:18 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.2ms)
+Completed 200 OK in 8ms (Views: 7.8ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:24:36 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 9ms (Views: 9.3ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:24:38 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.7ms)
+Completed 200 OK in 14ms (Views: 9.2ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:26:06 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (2.6ms)
+Completed 200 OK in 65ms (Views: 64.9ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:26:08 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.8ms)
+Completed 200 OK in 14ms (Views: 9.0ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:33:09 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:33:12 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (1.0ms)
+Completed 200 OK in 18ms (Views: 12.2ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:42:08 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 61ms (Views: 60.3ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:42:10 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.6ms)
+Completed 200 OK in 18ms (Views: 14.5ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:43:59 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (2.3ms)
+Completed 200 OK in 13ms (Views: 12.8ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:48:40 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (1.9ms)
+Completed 200 OK in 11ms (Views: 11.1ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:48:49 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.9ms)
+Completed 200 OK in 14ms (Views: 9.4ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:58:53 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.5ms)
+
+
+Started GET "/rails/info/properties" for 172.31.252.129 at 2016-08-14 14:58:56 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.2ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:59:07 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:59:08 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:59:08 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+
+
+Started GET "/" for 172.31.252.129 at 2016-08-14 14:59:08 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered vendor/bundle/ruby/2.1.0/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-08-14 14:59:49 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 15ms (Views: 14.3ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2016-08-14 14:59:50 +0000
+Processing by Rails::InfoController#properties as */*
+  Rendered /usr/lib/rvm/gems/ruby-2.1.9/gems/railties-4.2.7.1/lib/rails/templates/rails/info/properties.html.erb (1.5ms)
+Completed 200 OK in 73ms (Views: 17.0ms)
